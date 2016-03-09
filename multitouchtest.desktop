@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=multitouchtest
+Exec=qmlscene $@ Main.qml
+Icon=multitouchtest.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

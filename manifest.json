@@ -1,0 +1,17 @@
+{
+    "name": "multitouchtest.liu-xiao-guo",
+    "description": "description of multitouchtest",
+    "architecture": "all",
+    "title": "multitouchtest",
+    "hooks": {
+        "multitouchtest": {
+            "apparmor": "multitouchtest.apparmor",
+            "desktop":  "multitouchtest.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
